@@ -20,14 +20,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🔭 I’m currently working on [my portfolio](https://ashmalzahra.github.io/Portfolio/)
+I am a Remote Full-Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🔭 Visit [my portfolio](https://ashmalzahra.github.io/Portfolio/)
 
 - 📫 Reach me at **ashmal.zahraa@gmail.com**
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :zap: In my free time, I solve LeetCode challenges and read tech articles.
 
 
 ---
