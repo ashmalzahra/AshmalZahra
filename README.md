@@ -57,5 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmalzahra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashmalzahra&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api?username=Uthmanbello&show_icons=true&locale=en)
+
 ---
 
