@@ -50,7 +50,7 @@ I'm a Remote Full-Stack Software Developer <img src="https://media.giphy.com/med
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashmalzahra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Stats align="right"](https://github-readme-stats.vercel.app/api/?username=ashmalzahra&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api?username=Uthmanbello&show_icons=true&locale=en)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashmalzahra&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api?username=Uthmanbello&show_icons=true&locale=en)
 
 ---
 
