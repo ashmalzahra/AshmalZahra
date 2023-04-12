@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/ashmal-zahra">
-      <img src="https://img.shields.io/badge/LinkedIn-black" width="70px" height="30px" /> 
+      <img src="https://img.shields.io/badge/LinkedIn-black" width="80px" height="40px" /> 
     </a>
     <a href="https://wellfound.com/u/ashmal-zahra">
-      <img src="https://wellfound.com/images/logo/wellfound-lockup-white.png" alt="Wellfound Badge" width="150px" height="30px" />
+      <img src="https://wellfound.com/images/logo/wellfound-lockup-white.png" alt="Wellfound Badge" width="150px" height="40px" />
     </a>
   </div>
   <h1>
