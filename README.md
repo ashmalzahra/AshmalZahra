@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/ashmal-zahra">
-      <img src="https://user-images.githubusercontent.com/110582192/231587837-485f3145-61eb-4613-8cf9-3bac6bc56a87.png" /> 
+      <img src="![image](https://user-images.githubusercontent.com/110582192/231588531-219f748a-6695-4dcb-9843-7c1c1a05fac0.png)" /> 
     </a>
     <a href="https://wellfound.com/u/ashmal-zahra">
       <img src="https://wellfound.com/images/logo/wellfound-lockup-white.png" alt="Wellfound Badge" width="130px" height="33px" />
