@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/ashmal-zahra">
-      <img src="https://user-images.githubusercontent.com/110582192/231593758-bceee443-37a5-4640-be83-5354efd1a4a8.png" width="70px" height="45px" /> 
+      <img src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" width="100px" height="45px" /> 
     </a>
     <a href="https://wellfound.com/u/ashmal-zahra">
-      <img src="https://logowik.com/content/uploads/images/wellfound-new-20224679.logowik.com.webp" alt="Wellfound Badge" width="150px" height="45px" />
+      <img src="https://logowik.com/content/uploads/images/wellfound-new-20224679.logowik.com.webp" alt="Wellfound Badge" width="100px" height="45px" />
     </a>
   </div>
   <h1>
