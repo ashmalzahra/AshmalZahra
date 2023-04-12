@@ -4,7 +4,7 @@
       <img src="https://user-images.githubusercontent.com/110582192/231589380-1b92840a-5155-4f5b-a198-440c4befac20.png" width="30px" height="30px" /> 
     </a>
     <a href="https://wellfound.com/u/ashmal-zahra">
-      <img src="https://wellfound.com/images/logo/wellfound-lockup-white.png" alt="Wellfound Badge" width="150px" height="50px" />
+      <img src="https://wellfound.com/images/logo/wellfound-lockup-white.png" alt="Wellfound Badge" width="100px" height="30px" />
     </a>
   </div>
   <h1>
