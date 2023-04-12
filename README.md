@@ -4,7 +4,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://wellfound.com/u/ashmal-zahra">
-      <img src="https://wellfound.com/images/logo/wellfound-lockup-white.png" alt="Wellfound Badge" width="50px" height="70px" />
+      <img src="https://wellfound.com/images/logo/wellfound-lockup-white.png" alt="Wellfound Badge" width="100px" height="40px" />
     </a>
   </div>
   <h1>
