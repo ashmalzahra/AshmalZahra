@@ -20,11 +20,14 @@
 
 ### :woman_technologist: About Me :
 I'm a Remote Full-Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: Working as a Software Engineer and contributing to frontend and backend for building web applications.
+  
+- 👯 I’m looking to collaborate on JavaScript, React, and Ruby on Rails Project
+  
 - 🔭 Visit [my portfolio](https://ashmalzahra.github.io/Portfolio/)
 
 - 📫 Reach me at **ashmal.zahraa@gmail.com**
-
-- :telescope: Working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 
 ---
