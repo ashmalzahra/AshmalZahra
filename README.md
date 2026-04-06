@@ -3,9 +3,6 @@
     <a href="https://www.linkedin.com/in/ashmal-zahra">
       <img src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" width="90px" height="45px" /> 
     </a>
-    <a href="https://wellfound.com/u/ashmal-zahra">
-      <img src="https://logowik.com/content/uploads/images/wellfound-new-20224679.logowik.com.webp" alt="Wellfound Badge" width="90px" height="45px" />
-    </a>
   </div>
   <h1>
     hey there
@@ -24,8 +21,6 @@ I'm a Remote Full-Stack Software Developer <img src="https://media.giphy.com/med
 - :telescope: Working as a Software Engineer and contributing to frontend and backend for building web applications.
   
 - 👯 I’m looking to collaborate on JavaScript, React, and Ruby on Rails Project.
-  
-- 🔭 Visit [my portfolio](https://ashmalzahra.github.io/Portfolio/)
 
 - 📫 Reach me at **ashmal.zahraa@gmail.com**
 
